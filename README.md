@@ -12,8 +12,7 @@ Welcome to the repository for Week 4 of our Java learning journey. This week foc
   - [Day 5: Collectors, Grouping, and Partitioning](#day-5-collectors-grouping-and-partitioning)
   - [Day 6: Optional, Lambda Expressions, and Functional Interfaces](#day-6-optional-lambda-expressions-and-functional-interfaces)
 - [Prerequisites](#prerequisites)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
+
 
 ## 🧭 Overview
 This week was all about harnessing the power of Java Collections and the Stream API for modern data manipulation. We learned how to transform and filter data in a more expressive and concise way using streams, lambda expressions, and built-in functional interfaces.
